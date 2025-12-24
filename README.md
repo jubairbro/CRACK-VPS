@@ -38,7 +38,7 @@ If domain connection fails, you must use <b>server IP instead of domain</b>.
 
 <p>Run these commands step by step inside Termux:</p>
 
-<pre>
+<pre>bash
 pkg update -y
 pkg upgrade -y
 pkg install python git -y
