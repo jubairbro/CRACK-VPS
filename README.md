@@ -64,10 +64,9 @@ python run.py
 <hr>
 
 <h2>🖼️ Screenshots</h2>
-
 <p align="center">
-  <img src="img/Screenshot_20251225_014156.jpg" width="300">
-  <img src="img/Screenshot_20251225_014204.jpg" width="300">
+  <img src="img/Screenshot_20251225_014156.jpg" width="300" style="margin-right:10px;" />
+  <img src="img/Screenshot_20251225_014204.jpg" width="300" />
 </p>
 
 <hr>
