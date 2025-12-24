@@ -95,7 +95,7 @@ The author is not responsible for misuse.
 
 <p>
 Join Telegram for updates & support:<br>
-<a href="https://t.me/JubairZ">https://t.me/JubairZ</a>
+<a href="https://t.me/JubairSensei">https://t.me/JubairSensei</a>
 </p>
 
 <hr>
