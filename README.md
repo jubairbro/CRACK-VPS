@@ -64,10 +64,16 @@ python run.py
 <hr>
 
 <h2>🖼️ Screenshots</h2>
-<p align="center">
-  <img src="img/Screenshot_20251225_014156.jpg" width="300" />
-  <img src="img/Screenshot_20251225_014204.jpg" width="300" />
-</p>
+<table align="center">
+  <tr>
+    <td>
+      <img src="img/Screenshot_20251225_014156.jpg" width="280">
+    </td>
+    <td>
+      <img src="img/Screenshot_20251225_014204.jpg" width="280">
+    </td>
+  </tr>
+</table>
 <hr>
 
 <h2>🔐 Server Information</h2>
