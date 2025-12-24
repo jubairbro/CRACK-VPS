@@ -42,6 +42,8 @@ If domain connection fails, you must use <b>server IP instead of domain</b>.
 pkg update -y
 pkg upgrade -y
 pkg install python git -y
+pip install requests bs4 rich
+
 ```
 
 <hr>
