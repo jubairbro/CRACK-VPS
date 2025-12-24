@@ -38,28 +38,28 @@ If domain connection fails, you must use <b>server IP instead of domain</b>.
 
 <p>Run these commands step by step inside Termux:</p>
 
-<pre>bash
+```bash
 pkg update -y
 pkg upgrade -y
 pkg install python git -y
-</pre>
+```
 
 <hr>
 
 <h2>📥 Clone Repository</h2>
 
-<pre>
+```bash
 git clone https://github.com/jubairbro/CRACK-VPS
 cd CRACK-VPS
-</pre>
+```
 
 <hr>
 
 <h2>▶️ Run Tool</h2>
 
-<pre>
+```py
 python run.py
-</pre>
+```
 
 <hr>
 
