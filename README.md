@@ -42,6 +42,7 @@ If domain connection fails, you must use <b>server IP instead of domain</b>.
 pkg update -y
 pkg upgrade -y
 pkg install python git -y
+termux-setup-storage
 pip install requests bs4 rich
 
 ```
@@ -60,7 +61,7 @@ cd CRACK-VPS
 <h2>▶️ Run Tool</h2>
 
 ```py
-python run.py
+chmod +x run.sh && ./run.sh
 ```
 
 <hr>
