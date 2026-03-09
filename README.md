@@ -1,110 +1,99 @@
-<h1 align="center">🚀 CRACK VPS – Termux Auto Client</h1>
+<h1 align="center">🚀 SENSEI VPS PREMIUM</h1>
 
 <p align="center">
-  <b>Powerd by @JubairZ</b><br>
-  Telegram: <a href="https://t.me/JubairZ">https://t.me/JubairZ</a>
+  <a href="https://t.me/JubairSensei"><img src="https://img.shields.io/badge/Telegram-Channel-blue?style=for-the-badge&logo=telegram"></a>
+  <img src="https://img.shields.io/badge/Platform-Termux-green?style=for-the-badge&logo=android">
+  <img src="https://img.shields.io/badge/Core-Cython%20(.so)-blueviolet?style=for-the-badge&logo=python">
+</p>
+
+<p align="center">
+  <b>Advanced Auto Client for SSH WS, VLESS, VMESS & TROJAN</b><br>
+  <i>Powered by <a href="https://t.me/JubairSensei">@JubairSensei</a></i>
 </p>
 
 <hr>
 
 <h2>📌 About This Project</h2>
 
-<p>
-This tool allows you to automatically import and run <b>SSH WS, VLESS, VMESS, TROJAN</b> servers  
-directly on your <b>Android device using Termux</b>.
-</p>
+This powerful tool allows you to automatically fetch, import, and execute **SSH WS, VLESS, VMESS, and TROJAN** configurations directly on your **Android device using Termux**. 
 
-<p>
-Servers are created from VPS and synced to mobile automatically.
-</p>
+The configs are synced in real-time from our remote VPS database.
 
-<p>
-If domain connection fails, you must use <b>server IP instead of domain</b>.
-</p>
+> **Note:** If the domain connection fails at any point, please use the **Server IP instead of the Domain**.
 
 <hr>
 
-<h2>⚙️ Requirements</h2>
+<h2>✨ Key Features</h2>
 
-<ul>
-  <li>Android Device</li>
-  <li>Termux (Latest)</li>
-  <li>Internet Connection</li>
-</ul>
+* 🔥 **One-Click Installation:** No manual package installation or git cloning needed.
+* ⚙️ **Smart Architecture Detection:** Automatically detects your device (32-bit `armv7` or 64-bit `aarch64`) and installs the compatible core engine.
+* 🛡️ **Highly Secure Core:** Built with compiled `.so` (Cython) binaries for maximum performance and reverse-engineering protection.
+* ⚡ **Global Execution:** Run the tool from anywhere in Termux by simply typing `vps`.
 
 <hr>
 
-<h2>🛠️ Termux Setup Commands</h2>
+<h2>⚙ Requirements</h2>
 
-<p>Run these commands step by step inside Termux:</p>
+* Android Device (32-bit or 64-bit)
+* Termux (Latest Version)
+* Active Internet Connection
+
+<hr>
+
+<h2>🛠 Quick Installation (One-Liner)</h2>
+
+Forget about long commands. Just copy and paste this single line into your Termux and hit enter:
 
 ```bash
-pkg update -y
-pkg upgrade -y
-pkg install python git -y
-termux-setup-storage
-pip install requests bs4 rich
-
+bash <(curl -Ls [https://raw.githubusercontent.com/jubairbro/CRACK-VPS/main/setup.sh](https://raw.githubusercontent.com/jubairbro/CRACK-VPS/main/setup.sh))
 ```
+*(This command will automatically update your system, install dependencies, configure the core engine, and set up the global launcher.)*
 
 <hr>
 
-<h2>📥 Clone Repository</h2>
+<h2>▶ How to Run</h2>
+
+Once the installation is complete, you don't need to navigate to any folder. Just type:
 
 ```bash
-git clone https://github.com/jubairbro/CRACK-VPS
-cd CRACK-VPS
+vps
 ```
 
 <hr>
 
-<h2>▶️ Run Tool</h2>
-
-```py
-chmod +x run.sh && ./run.sh
-```
-
-<hr>
-
-<h2>🖼️ Screenshots</h2>
+<h2>🖼 Screenshots</h2>
 <table align="center">
   <tr>
     <td>
-      <img src="img/Screenshot_20251225_014156.jpg" width="280">
+      <img src="img/Screenshot_20251225_014156.jpg" width="280" alt="Menu Interface">
     </td>
     <td>
-      <img src="img/Screenshot_20251225_014204.jpg" width="280">
+      <img src="img/Screenshot_20251225_014204.jpg" width="280" alt="Execution Interface">
     </td>
   </tr>
 </table>
+
 <hr>
 
 <h2>🔐 Server Information</h2>
 
-<ul>
-  <li>XRAY All Servers Limited to <b>200 GB</b></li>
-  <li>All Accounts are <b>Shared</b></li>
-  <li>If not working, use <b>IP instead of Domain</b></li>
-</ul>
+* XRAY All Servers are Limited to **200 GB**.
+* All Accounts provided are **Shared**.
+* If a config stops working, try using the **IP instead of the Domain**.
 
 <hr>
 
-<h2>⚠️ Disclaimer</h2>
+<h2>⚠ Disclaimer</h2>
 
-<p>
-This project is for <b>educational purposes only</b>.  
-The author is not responsible for misuse.
-</p>
+This project is made strictly for **educational and research purposes only**. The author (@JubairSensei) is not responsible for any misuse, damage, or illegal activities performed using this tool. Use it at your own risk.
 
 <hr>
 
-<h2>🌍 Support</h2>
+<h2>🌍 Support & Updates</h2>
 
-<p>
-Join Telegram for updates & support:<br>
-<a href="https://t.me/JubairSensei">https://t.me/JubairSensei</a>
-</p>
+Join our official Telegram channel for tool updates, premium configs, and support:<br>
+👉 **[t.me/JubairSensei](https://t.me/JubairSensei)**
 
 <hr>
 
-<h3 align="center">🇧🇩 #FreePalestine</h3>
+<h3 align="center">🇧🇩 #FreePalestine 🇵🇸</h3>
